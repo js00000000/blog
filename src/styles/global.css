@@ -148,3 +148,7 @@ article img {
 #meteors .shower.ul {
   @apply rotate-315;
 }
+
+.giscus {
+  margin-bottom: 3rem;
+}
